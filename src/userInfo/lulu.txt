@@ -1,0 +1,13 @@
+123
+lu
+lu
+2021-04-14
+false
+false
+true
+[egg]
+2500
+vegetFruitParfait
+otherMicrowaveEggCapreseBreakfastCups
+veganSavoryBreakfastBowl
+vegetShakshuka
